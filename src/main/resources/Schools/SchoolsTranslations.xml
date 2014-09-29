@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ * See the NOTICE file distributed with this work for additional
+ * information regarding copyright ownership.
+ *
+ * This is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU Lesser General Public License as
+ * published by the Free Software Foundation; either version 2.1 of
+ * the License, or (at your option) any later version.
+ *
+ * This software is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this software; if not, write to the Free
+ * Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
+ * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
+-->
+
+<xwikidoc>
+  <web>Schools</web>
+  <name>SchoolsTranslations</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>SchoolsClass</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1379681902000</creationDate>
+  <date>1411387062000</date>
+  <contentUpdateDate>1411387062000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.1</syntaxId>
+  <hidden>true</hidden>
+  <object>
+    <class>
+      <name>XWiki.TranslationDocumentClass</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <scope>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>scope</name>
+        <number>1</number>
+        <prettyName>Scope</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>GLOBAL|WIKI|USER|ON_DEMAND</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </scope>
+    </class>
+    <name>Schools.SchoolsTranslations</name>
+    <number>0</number>
+    <className>XWiki.TranslationDocumentClass</className>
+    <guid>a0b15ae9-c3b2-4c83-aa94-04929c1a494b</guid>
+    <property>
+      <scope>ON_DEMAND</scope>
+    </property>
+  </object>
+  <content># Class fields
+Schools.SchoolsClass_name=School Name
+Schools.SchoolsClass_country=Country
+Schools.SchoolsClass_country_other=other
+Schools.SchoolsClass_country_romania=romania
+Schools.SchoolsClass_country_france=france
+Schools.SchoolsClass_jobType=Job Type
+Schools.SchoolsClass_jobType_hr=hr
+Schools.SchoolsClass_jobType_project=project mngt
+Schools.SchoolsClass_jobType_other=other
+Schools.SchoolsClass_jobType_marketing=marketing
+Schools.SchoolsClass_jobType_sales=sales
+Schools.SchoolsClass_jobType_tech=tech
+Schools.SchoolsClass_url=website Url
+Schools.SchoolsClass_contacts=Contacts
+Schools.SchoolsClass_internshipEmail=internship Email
+Schools.SchoolsClass_internshipUrl=Internship URL
+Schools.SchoolsClass_content1=Details
+
+# Live table generic keys
+schools.livetable.doc.title=Page title
+schools.livetable.doc.name=Page name
+schools.livetable.doc.space=Space
+schools.livetable.doc.fullname=Page full name
+schools.livetable.doc.author=Last Author
+schools.livetable.doc.creator=Creator
+schools.livetable.doc.date=Update date
+schools.livetable.doc.creationDate=Creation date
+schools.livetable._avatar=Avatar
+schools.livetable._images=Images
+schools.livetable._attachments=Attachments
+schools.livetable._actions=Actions
+schools.livetable._actions.edit=Edit
+schools.livetable._actions.delete=Delete
+schools.livetable.emptyvalue=-
+
+# Live table specific keys
+schools.livetable.name=School Name
+schools.livetable.country=Country
+schools.livetable.jobType=Job Type
+schools.livetable.url=website Url
+schools.livetable.contacts=Contacts
+schools.livetable.internshipEmail=internship Email
+schools.livetable.internshipUrl=Internship URL
+schools.livetable.content1=Details</content>
+</xwikidoc>

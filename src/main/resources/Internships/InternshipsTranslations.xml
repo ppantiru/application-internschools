@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ * See the NOTICE file distributed with this work for additional
+ * information regarding copyright ownership.
+ *
+ * This is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU Lesser General Public License as
+ * published by the Free Software Foundation; either version 2.1 of
+ * the License, or (at your option) any later version.
+ *
+ * This software is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this software; if not, write to the Free
+ * Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
+ * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
+-->
+
+<xwikidoc>
+  <web>Internships</web>
+  <name>InternshipsTranslations</name>
+  <language/>
+  <defaultLanguage/>
+  <translation>0</translation>
+  <parent>InternshipsClass</parent>
+  <creator>xwiki:XWiki.Admin</creator>
+  <author>xwiki:XWiki.Admin</author>
+  <customClass/>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <creationDate>1379680626000</creationDate>
+  <date>1379692046000</date>
+  <contentUpdateDate>1379692046000</contentUpdateDate>
+  <version>1.1</version>
+  <title/>
+  <defaultTemplate/>
+  <validationScript/>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>xwiki/2.1</syntaxId>
+  <hidden>true</hidden>
+  <object>
+    <class>
+      <name>XWiki.TranslationDocumentClass</name>
+      <customClass/>
+      <customMapping/>
+      <defaultViewSheet/>
+      <defaultEditSheet/>
+      <defaultWeb/>
+      <nameField/>
+      <validationScript/>
+      <scope>
+        <cache>0</cache>
+        <disabled>0</disabled>
+        <displayType>select</displayType>
+        <multiSelect>0</multiSelect>
+        <name>scope</name>
+        <number>1</number>
+        <prettyName>Scope</prettyName>
+        <relationalStorage>0</relationalStorage>
+        <separator> </separator>
+        <separators> ,|</separators>
+        <size>1</size>
+        <unmodifiable>0</unmodifiable>
+        <values>GLOBAL|WIKI|USER|ON_DEMAND</values>
+        <classType>com.xpn.xwiki.objects.classes.StaticListClass</classType>
+      </scope>
+    </class>
+    <name>Internships.InternshipsTranslations</name>
+    <number>0</number>
+    <className>XWiki.TranslationDocumentClass</className>
+    <guid>a200d080-62a8-4d71-9ad5-8bdb4e8571e1</guid>
+    <property>
+      <scope>ON_DEMAND</scope>
+    </property>
+  </object>
+  <content># Class fields
+Internships.InternshipsClass_schoolYear=School Year
+Internships.InternshipsClass_schoolYear_4th year=4
+Internships.InternshipsClass_schoolYear_3rd year=3
+Internships.InternshipsClass_schoolYear_1st year=1
+Internships.InternshipsClass_schoolYear_other=0
+Internships.InternshipsClass_schoolYear_2nd year=2
+Internships.InternshipsClass_schoolYear_5th year=5
+Internships.InternshipsClass_level=Level
+Internships.InternshipsClass_level_3=bac+3
+Internships.InternshipsClass_level_2=bac+2
+Internships.InternshipsClass_level_1=bac+1
+Internships.InternshipsClass_level_5=bac+5 and more
+Internships.InternshipsClass_level_4=bac+4
+Internships.InternshipsClass_school=School
+Internships.InternshipsClass_type=Job Type
+Internships.InternshipsClass_type_internship=internship
+Internships.InternshipsClass_type_parttime=part-time
+Internships.InternshipsClass_duration=Duration
+Internships.InternshipsClass_startDate=Internship Start
+Internships.InternshipsClass_endDate=Internship end
+Internships.InternshipsClass_searchDate=Search Date
+Internships.InternshipsClass_jobtype=Internship Type
+Internships.InternshipsClass_jobtype_hr=hr
+Internships.InternshipsClass_jobtype_project=project mngt
+Internships.InternshipsClass_jobtype_other=other
+Internships.InternshipsClass_jobtype_marketing=marketing
+Internships.InternshipsClass_jobtype_sales=sales
+Internships.InternshipsClass_jobtype_tech=tech
+Internships.InternshipsClass_offersSent=Offers Sent
+Internships.InternshipsClass_content1=Details
+
+# Live table generic keys
+internships.livetable.doc.title=Page title
+internships.livetable.doc.name=Page name
+internships.livetable.doc.space=Space
+internships.livetable.doc.fullname=Page full name
+internships.livetable.doc.author=Last Author
+internships.livetable.doc.creator=Creator
+internships.livetable.doc.date=Update date
+internships.livetable.doc.creationDate=Creation date
+internships.livetable._avatar=Avatar
+internships.livetable._images=Images
+internships.livetable._attachments=Attachments
+internships.livetable._actions=Actions
+internships.livetable._actions.edit=Edit
+internships.livetable._actions.delete=Delete
+internships.livetable.emptyvalue=-
+
+# Live table specific keys
+internships.livetable.schoolYear=School Year
+internships.livetable.level=Level
+internships.livetable.school=School
+internships.livetable.type=Job Type
+internships.livetable.duration=Duration
+internships.livetable.startDate=Internship Start
+internships.livetable.endDate=Internship end
+internships.livetable.searchDate=Search Date
+internships.livetable.jobtype=Internship Type
+internships.livetable.offersSent=Offers Sent
+internships.livetable.content1=Details</content>
+</xwikidoc>
