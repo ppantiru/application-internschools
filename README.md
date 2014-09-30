@@ -5,4 +5,4 @@ The application is composed of two parts, one under the name of "Schools" that k
 Requirement: < Query Generator and Query Macro >
 -this can be installed with the Extension Manager
 
-Note: A propper release for this coming soon.
+Note: A proper release for this coming soon.
