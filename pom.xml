@@ -32,9 +32,9 @@
  <groupId>org.xwiki.contrib</groupId>
  <artifactId>application-internschools</artifactId>
  <version>1.0-SNAPSHOT</version>
- <name>Schools App</name>
+ <name>School Recruitment Application</name>
  <packaging>xar</packaging>
- <description>An application meant to help keep track of schools for possible internship/part-time job candidates, and the duration of the ongoing internships/part-time jobs.</description>
+ <description>Keep track of schools for possible internship/part-time job candidates</description>
  <scm>
    <connection>scm:git:git://github.com/xwiki-contrib/application-internschools.git</connection>
    <developerConnection>scm:git:git@github.com:xwiki-contrib/application-internschools.git</developerConnection>
