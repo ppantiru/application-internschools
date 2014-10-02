@@ -4,3 +4,7 @@ The application is composed of two parts, one under the name of "Schools" that k
 
 Dependency: < Query Generator and Query Macro >
 
+<<<<<<< HEAD
+=======
+Note: A proper release for this coming soon.
+>>>>>>> da7cf68b131f68101eb79b72c79d60ed3f07d070
